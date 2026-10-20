@@ -1,0 +1,11 @@
+2026-10-14T01:57:11.683+05:30  INFO 58721 --- [booklogger] [main] c.e.booklogger.BookloggerApplication     : Starting BookloggerApplication using Java 26.0.2 with PID 58721 (/Users/abhi/IdeaProjects/booklogger/target/classes started by abhi in /Users/abhi/IdeaProjects/booklogger)
+2026-10-14T01:57:11.685+05:30 DEBUG 58721 --- [booklogger] [main] c.e.booklogger.BookloggerApplication     : Running with Spring Boot v4.1.1, Spring v7.0.9
+2026-10-14T01:57:11.685+05:30  INFO 58721 --- [booklogger] [main] c.e.booklogger.BookloggerApplication     : No active profile set, falling back to 1 default profile: "default"
+2026-10-14T01:57:12.133+05:30  INFO 58721 --- [booklogger] [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2026-10-14T01:57:12.140+05:30  INFO 58721 --- [booklogger] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-10-14T01:57:12.140+05:30  INFO 58721 --- [booklogger] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.24]
+2026-10-14T01:57:12.159+05:30  INFO 58721 --- [booklogger] [main] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 442 ms
+2026-10-14T01:57:12.343+05:30  INFO 58721 --- [booklogger] [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2026-10-14T01:57:12.347+05:30  INFO 58721 --- [booklogger] [main] c.e.booklogger.BookloggerApplication     : Started BookloggerApplication in 0.887 seconds (process running for 1.23)
+2026-10-14T02:01:38.273+05:30  INFO 58721 --- [booklogger] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-10-14T02:01:38.282+05:30  INFO 58721 --- [booklogger] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
